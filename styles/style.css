@@ -1,0 +1,15 @@
+body {
+    margin: 20px;
+}
+
+.toetsenbord {
+    width: 60px;
+    height: 60px;
+    margin: 0 5px 10px 5px;
+}
+
+.toetsenbord-space {
+    width: 100%;
+    height: 60px;
+    margin: 0 5px 10px 5px;
+}
